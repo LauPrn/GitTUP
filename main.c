@@ -13,6 +13,10 @@ int main()
     printf("Hello world!\n");
     printf("Hello world!\n");
     printf("Hello world!\n");
+    int numero 30;
+    int numero=6;
+    int numero=2;
+
 }
 
 
