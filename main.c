@@ -16,7 +16,7 @@ int main()
     int numero 30;
     int numero=6;
     int numero=2;
-
-}
+    int flag=0;
+   }
 
 
